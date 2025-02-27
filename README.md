@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jasurbek-allayarov"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/it_imperiya"><img src="https://img.shields.io/badge/-Instagram-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://jasurbek.me/"><img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"></a>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/it_imperiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasurbek-allayarov) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@it_imperiya)
 </p>
 
 I'm a passionate Mobile Developer from Uzbekistan. I specialize in building sleek, user-friendly mobile applications that deliver seamless experiences. With a strong focus on Kotlin and Jetpack Compose’s modern architecture, I thrive on turning innovative ideas into functional, high-quality apps.

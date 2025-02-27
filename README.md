@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/jasurbek-allayarov"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+ <a href="https://linkedin.com/in/jasurbek-allayarov"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/it_imperiya"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://youtube.com/@it_imperiya"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
 </p>
@@ -16,10 +16,13 @@ I'm a passionate Mobile Developer from Uzbekistan. I specialize in building slee
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-Jetpack%20Compose-424242?style=for-the-badge&logo=Android&logoColor=white" alt="Jetpack Compose">
   <img src="https://img.shields.io/badge/-PHP-777BB4%20?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/-CSS-2965F1?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
 </p>
 
 Through my repositories, I've demonstrated expertise in various programming languages and technologies. Here are some of the languages and frameworks I work with:

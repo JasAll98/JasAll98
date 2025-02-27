@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Allayarov Jasurbek
 
 <p align="center">
-  <a href="#"><img src="https://github.com/JasAll98/JasAll98/blob/main/header.png" alt="Header"></a>
+  <a href="#"><img src="https://github.com/JasAll98/JasAll98/blob/main/image/banner_android.jpg" alt="Header"></a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/jasurbek-allayarov"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:jasurbek.allayarov@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/it_imperiya"><img src="https://img.shields.io/badge/-Instagram-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="https://jasurbek.me/"><img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"></a>
 </p>
 
